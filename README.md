@@ -1,7 +1,7 @@
 Hi 👋 My name is Dhruv Sharma
 =============================
 
-Management Engineer at the University of Waterloo
+Engineer at the University of Waterloo
 -------------------------------------------------
 
 I've been coding for 4 years, I love full-stack development and like to code to make my day to day tasks easier and optimized. I love challenging myself by learning new software tools in the rapid developing tech industry.
