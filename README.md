@@ -16,7 +16,7 @@
 
 </br>
 
-<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/">University of Waterloo</a></br>💻 Prev. Software Engineer at <a href="https://jobs.td.com/en-CA/campus-recruitment/technology/">TD Bank</a>
+<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br>💻 Prev. Software Engineer at <a href="https://jobs.td.com/en-CA/campus-recruitment/technology/">TD Bank</a>
 </em></p>
 
 
