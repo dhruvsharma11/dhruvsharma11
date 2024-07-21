@@ -16,7 +16,7 @@
 
 </br>
 
-<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br>💻 Prev. Software Engineer at <a href="https://jobs.td.com/en-CA/campus-recruitment/technology/">Stealth Startup</a>
+<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br>💻 Prev. Software Engineer at Stealth Startup
 </em></p>
 
 
