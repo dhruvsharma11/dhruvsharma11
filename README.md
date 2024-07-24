@@ -16,8 +16,11 @@
 
 </br>
 
+
 <p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br>💻 Prev. Software Engineer at Stealth Startup
 </em></p>
+
+<p align="center"><em>🌐 <a href="https://dhruv-sharma.me">Portfolio</a></em></p>
 
 
 ### A little more about me...  
