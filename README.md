@@ -17,7 +17,7 @@
 </br>
 
 
-<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br>💻 Prev. Software Engineer at Stealth Startup
+<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br> 💻 ML Engineer at <a href="https://getsafari.ai">Safari Ai</a>
 </em></p>
 
 <p align="center"><em>🌐 <a href="https://dhruv-sharma.me">Portfolio</a></em></p>
@@ -30,7 +30,7 @@ const dhruv = {
   pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, Java, C#, HTML, CSS],
   libraries: [PyTorch, Pandas, React, Node, Typescript, Redux, Cypress],
-  tools: [Azure, Git, Linux, MySQL, MongoDB, AWS],
+  tools: [AWS, Azure, Git, Linux, MySQL, MongoDB, AWS],
   projects: {
       personalWebsite: "Developing a portfolio to showcase my projects and skills.",
       m3diAI: "Creating an audio transcription website for Doctors using PyTorch.",
