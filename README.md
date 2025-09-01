@@ -17,7 +17,7 @@
 </br>
 
 
-<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br> 💻 ML Engineer at <a href="https://getsafari.ai">Safari Ai</a>
+<p align="center"><em>🎓 Engineer @ <a href="https://uwaterloo.ca/future-students/programs/management-engineering">University of Waterloo</a></br> 💻 Software Engineer at <a href="https://getsafari.ai">Augment</a>
 </em></p>
 
 <p align="center"><em>🌐 <a href="https://dhruv-sharma.me">Portfolio</a></em></p>
